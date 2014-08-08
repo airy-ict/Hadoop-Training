@@ -21,6 +21,8 @@ public class Main {
 		if (args.length != 2)
 			throw new Exception("You must input 2 arguments: <in> <out>");
 
+		String str = null;
+		
 		// 2 create and run job
 		Job job = new Job(new Configuration(), "UID Count");
 		job.setJarByClass(Main.class);

@@ -54,5 +54,6 @@
 	<classpathentry kind="lib" path="/home/zkpk/hadoop-1.2.1/lib/slf4j-api-1.4.3.jar"/>
 	<classpathentry kind="lib" path="/home/zkpk/hadoop-1.2.1/lib/slf4j-log4j12-1.4.3.jar"/>
 	<classpathentry kind="lib" path="/home/zkpk/hadoop-1.2.1/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="/home/zkpk/ide-code/hamcrest-all-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
