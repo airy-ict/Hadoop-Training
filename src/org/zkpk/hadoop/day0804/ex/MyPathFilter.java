@@ -24,10 +24,6 @@ public class MyPathFilter implements PathFilter {
 		String uri=args[0];
 		Configuration conf=new Configuration();
 		FileSystem fs=FileSystem.get(URI.create(uri),conf);
-		
-		//Configuration conf=new Configuration();
-		//FileSystem fs=FileSystem.get(conf);
-		//FileStatus[] status=fs.globStatus(new Path("/test/*"),new MyPathFilter("^.*/test/����.doc$"));
 		FileStatus[] status=fs.globStatus(new Path("hdfs://192.168.17.128:9000/test/*"),new MyPathFilter("^.*/test/test$"));
 		for(FileStatus d:status){
 			System.out.println(d.getPath());
