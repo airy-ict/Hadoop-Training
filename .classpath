@@ -5,7 +5,7 @@
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-ant-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-client-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-core-1.2.1.jar" sourcepath="D:/hadoop"/>
-	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-examples-1.2.1.jar" sourcepath="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1"/>
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-minicluster-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-test-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/CLY/Desktop/hadooop/资料/hadoop-1.2.1/hadoop-tools-1.2.1.jar" sourcepath="D:/hadoop"/>
